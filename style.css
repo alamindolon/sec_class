@@ -1,0 +1,11 @@
+.box{
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    float: left;
+    margin: 3px;
+}
+.main_box{
+    display: flex;
+    justify-content: space-between;
+}
